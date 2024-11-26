@@ -11,11 +11,10 @@ for i in lst:
         print("value greater than 5")
     else:
         print("value less than 5")
-
-"""sums=0
+sums=0
 for i in lst:
     sums+=i
 
-print("sum of list:",sums)"""
+print("sum of list:",sums)
 
 
